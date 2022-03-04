@@ -5,3 +5,10 @@ set relativenumber "------------------------------------------ posicion relativa
 set nowrap "------------------------------------------------ no agrupa las filas
 
 " }}}
+
+" MOUSE {{{
+set mouse=a
+" }}}
+
+
+

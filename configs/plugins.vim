@@ -10,5 +10,12 @@ Plug 'preservim/nerdtree' "------------------------------- navegador de archivos
 
 " }}}
 
+" BARRA DE ESTADO {{{
+Plug 'maximbaz/lightline-ale'
+Plug 'itchyny/lightline.vim'
+" }}}
+
+
+
 
 call plug#end()
